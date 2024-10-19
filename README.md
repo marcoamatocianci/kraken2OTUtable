@@ -1,7 +1,7 @@
 # kraken2OTU
 
-Creates a simple OTU table from Kraken2 reports. It extracts the OTU names and their read counts.
-
+Creates a simple OTU table from Kraken2 reports. It extracts the OTU names and their 
+read counts.
 ## Description
 
 This script extracts read counts and OTU (species, genus or else) names from every kraken2 report file found in a given folder, and summarizes it in one OTU table (rows are OTUs, columns are samples).
